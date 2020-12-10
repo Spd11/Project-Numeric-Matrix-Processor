@@ -1,5 +1,5 @@
 
-# Project: [Numeric Matrix Processor](https://hyperskill.org/projects/96)
+# Project: [Numeric Matrix Processor]
 
 ## Stage 1: Addition
 
